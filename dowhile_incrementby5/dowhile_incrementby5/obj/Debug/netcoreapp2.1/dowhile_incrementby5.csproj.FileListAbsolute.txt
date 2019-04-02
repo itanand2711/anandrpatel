@@ -1,0 +1,10 @@
+C:\Users\Anand\source\repos\dowhile_incrementby5\dowhile_incrementby5\bin\Debug\netcoreapp2.1\dowhile_incrementby5.deps.json
+C:\Users\Anand\source\repos\dowhile_incrementby5\dowhile_incrementby5\bin\Debug\netcoreapp2.1\dowhile_incrementby5.runtimeconfig.json
+C:\Users\Anand\source\repos\dowhile_incrementby5\dowhile_incrementby5\bin\Debug\netcoreapp2.1\dowhile_incrementby5.runtimeconfig.dev.json
+C:\Users\Anand\source\repos\dowhile_incrementby5\dowhile_incrementby5\bin\Debug\netcoreapp2.1\dowhile_incrementby5.dll
+C:\Users\Anand\source\repos\dowhile_incrementby5\dowhile_incrementby5\bin\Debug\netcoreapp2.1\dowhile_incrementby5.pdb
+C:\Users\Anand\source\repos\dowhile_incrementby5\dowhile_incrementby5\obj\Debug\netcoreapp2.1\dowhile_incrementby5.csproj.CoreCompileInputs.cache
+C:\Users\Anand\source\repos\dowhile_incrementby5\dowhile_incrementby5\obj\Debug\netcoreapp2.1\dowhile_incrementby5.AssemblyInfoInputs.cache
+C:\Users\Anand\source\repos\dowhile_incrementby5\dowhile_incrementby5\obj\Debug\netcoreapp2.1\dowhile_incrementby5.AssemblyInfo.cs
+C:\Users\Anand\source\repos\dowhile_incrementby5\dowhile_incrementby5\obj\Debug\netcoreapp2.1\dowhile_incrementby5.dll
+C:\Users\Anand\source\repos\dowhile_incrementby5\dowhile_incrementby5\obj\Debug\netcoreapp2.1\dowhile_incrementby5.pdb

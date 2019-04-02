@@ -1,0 +1,11 @@
+C:\Users\Anand\source\repos\dowhile_sumof20\dowhile_sumof20\bin\Debug\netcoreapp2.1\dowhile_sumof20.deps.json
+C:\Users\Anand\source\repos\dowhile_sumof20\dowhile_sumof20\bin\Debug\netcoreapp2.1\dowhile_sumof20.runtimeconfig.json
+C:\Users\Anand\source\repos\dowhile_sumof20\dowhile_sumof20\bin\Debug\netcoreapp2.1\dowhile_sumof20.runtimeconfig.dev.json
+C:\Users\Anand\source\repos\dowhile_sumof20\dowhile_sumof20\bin\Debug\netcoreapp2.1\dowhile_sumof20.dll
+C:\Users\Anand\source\repos\dowhile_sumof20\dowhile_sumof20\bin\Debug\netcoreapp2.1\dowhile_sumof20.pdb
+C:\Users\Anand\source\repos\dowhile_sumof20\dowhile_sumof20\obj\Debug\netcoreapp2.1\dowhile_sumof20.csprojAssemblyReference.cache
+C:\Users\Anand\source\repos\dowhile_sumof20\dowhile_sumof20\obj\Debug\netcoreapp2.1\dowhile_sumof20.csproj.CoreCompileInputs.cache
+C:\Users\Anand\source\repos\dowhile_sumof20\dowhile_sumof20\obj\Debug\netcoreapp2.1\dowhile_sumof20.AssemblyInfoInputs.cache
+C:\Users\Anand\source\repos\dowhile_sumof20\dowhile_sumof20\obj\Debug\netcoreapp2.1\dowhile_sumof20.AssemblyInfo.cs
+C:\Users\Anand\source\repos\dowhile_sumof20\dowhile_sumof20\obj\Debug\netcoreapp2.1\dowhile_sumof20.dll
+C:\Users\Anand\source\repos\dowhile_sumof20\dowhile_sumof20\obj\Debug\netcoreapp2.1\dowhile_sumof20.pdb

@@ -1,0 +1,11 @@
+C:\Users\Anand\source\repos\areaofcricle\areaofcricle\bin\Debug\netcoreapp2.1\areaofcricle.deps.json
+C:\Users\Anand\source\repos\areaofcricle\areaofcricle\bin\Debug\netcoreapp2.1\areaofcricle.runtimeconfig.json
+C:\Users\Anand\source\repos\areaofcricle\areaofcricle\bin\Debug\netcoreapp2.1\areaofcricle.runtimeconfig.dev.json
+C:\Users\Anand\source\repos\areaofcricle\areaofcricle\bin\Debug\netcoreapp2.1\areaofcricle.dll
+C:\Users\Anand\source\repos\areaofcricle\areaofcricle\bin\Debug\netcoreapp2.1\areaofcricle.pdb
+C:\Users\Anand\source\repos\areaofcricle\areaofcricle\obj\Debug\netcoreapp2.1\areaofcricle.csprojAssemblyReference.cache
+C:\Users\Anand\source\repos\areaofcricle\areaofcricle\obj\Debug\netcoreapp2.1\areaofcricle.csproj.CoreCompileInputs.cache
+C:\Users\Anand\source\repos\areaofcricle\areaofcricle\obj\Debug\netcoreapp2.1\areaofcricle.AssemblyInfoInputs.cache
+C:\Users\Anand\source\repos\areaofcricle\areaofcricle\obj\Debug\netcoreapp2.1\areaofcricle.AssemblyInfo.cs
+C:\Users\Anand\source\repos\areaofcricle\areaofcricle\obj\Debug\netcoreapp2.1\areaofcricle.dll
+C:\Users\Anand\source\repos\areaofcricle\areaofcricle\obj\Debug\netcoreapp2.1\areaofcricle.pdb

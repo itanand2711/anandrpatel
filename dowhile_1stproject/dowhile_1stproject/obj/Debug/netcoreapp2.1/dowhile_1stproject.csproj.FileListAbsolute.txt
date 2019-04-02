@@ -1,0 +1,11 @@
+C:\Users\Anand\source\repos\dowhile_1stproject\dowhile_1stproject\bin\Debug\netcoreapp2.1\dowhile_1stproject.deps.json
+C:\Users\Anand\source\repos\dowhile_1stproject\dowhile_1stproject\bin\Debug\netcoreapp2.1\dowhile_1stproject.runtimeconfig.json
+C:\Users\Anand\source\repos\dowhile_1stproject\dowhile_1stproject\bin\Debug\netcoreapp2.1\dowhile_1stproject.runtimeconfig.dev.json
+C:\Users\Anand\source\repos\dowhile_1stproject\dowhile_1stproject\bin\Debug\netcoreapp2.1\dowhile_1stproject.dll
+C:\Users\Anand\source\repos\dowhile_1stproject\dowhile_1stproject\bin\Debug\netcoreapp2.1\dowhile_1stproject.pdb
+C:\Users\Anand\source\repos\dowhile_1stproject\dowhile_1stproject\obj\Debug\netcoreapp2.1\dowhile_1stproject.csprojAssemblyReference.cache
+C:\Users\Anand\source\repos\dowhile_1stproject\dowhile_1stproject\obj\Debug\netcoreapp2.1\dowhile_1stproject.csproj.CoreCompileInputs.cache
+C:\Users\Anand\source\repos\dowhile_1stproject\dowhile_1stproject\obj\Debug\netcoreapp2.1\dowhile_1stproject.AssemblyInfoInputs.cache
+C:\Users\Anand\source\repos\dowhile_1stproject\dowhile_1stproject\obj\Debug\netcoreapp2.1\dowhile_1stproject.AssemblyInfo.cs
+C:\Users\Anand\source\repos\dowhile_1stproject\dowhile_1stproject\obj\Debug\netcoreapp2.1\dowhile_1stproject.dll
+C:\Users\Anand\source\repos\dowhile_1stproject\dowhile_1stproject\obj\Debug\netcoreapp2.1\dowhile_1stproject.pdb

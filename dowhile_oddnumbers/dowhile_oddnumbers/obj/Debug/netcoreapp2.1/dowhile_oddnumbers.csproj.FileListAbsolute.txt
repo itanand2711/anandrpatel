@@ -1,0 +1,11 @@
+C:\Users\Anand\source\repos\dowhile_oddnumbers\dowhile_oddnumbers\bin\Debug\netcoreapp2.1\dowhile_oddnumbers.deps.json
+C:\Users\Anand\source\repos\dowhile_oddnumbers\dowhile_oddnumbers\bin\Debug\netcoreapp2.1\dowhile_oddnumbers.runtimeconfig.json
+C:\Users\Anand\source\repos\dowhile_oddnumbers\dowhile_oddnumbers\bin\Debug\netcoreapp2.1\dowhile_oddnumbers.runtimeconfig.dev.json
+C:\Users\Anand\source\repos\dowhile_oddnumbers\dowhile_oddnumbers\bin\Debug\netcoreapp2.1\dowhile_oddnumbers.dll
+C:\Users\Anand\source\repos\dowhile_oddnumbers\dowhile_oddnumbers\bin\Debug\netcoreapp2.1\dowhile_oddnumbers.pdb
+C:\Users\Anand\source\repos\dowhile_oddnumbers\dowhile_oddnumbers\obj\Debug\netcoreapp2.1\dowhile_oddnumbers.csprojAssemblyReference.cache
+C:\Users\Anand\source\repos\dowhile_oddnumbers\dowhile_oddnumbers\obj\Debug\netcoreapp2.1\dowhile_oddnumbers.csproj.CoreCompileInputs.cache
+C:\Users\Anand\source\repos\dowhile_oddnumbers\dowhile_oddnumbers\obj\Debug\netcoreapp2.1\dowhile_oddnumbers.AssemblyInfoInputs.cache
+C:\Users\Anand\source\repos\dowhile_oddnumbers\dowhile_oddnumbers\obj\Debug\netcoreapp2.1\dowhile_oddnumbers.AssemblyInfo.cs
+C:\Users\Anand\source\repos\dowhile_oddnumbers\dowhile_oddnumbers\obj\Debug\netcoreapp2.1\dowhile_oddnumbers.dll
+C:\Users\Anand\source\repos\dowhile_oddnumbers\dowhile_oddnumbers\obj\Debug\netcoreapp2.1\dowhile_oddnumbers.pdb
